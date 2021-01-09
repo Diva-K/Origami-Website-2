@@ -1,0 +1,8 @@
+*{border:solid}
+h1{color:pink;background-color:black ;}
+h2{background-color:pink;}
+p{color:yellow;background-color:blueviolet;}
+.myheader{
+    background-color:black;
+    display:flex;justify-content: space-between;
+}
